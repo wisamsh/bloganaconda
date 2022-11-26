@@ -8,7 +8,7 @@
  * @subpackage Twenty_Twenty_Two
  * @since Twenty Twenty-Two 1.0
  */
-
+die("WORKS!!!");
 
 if ( ! function_exists( 'twentytwentytwo_support' ) ) :
 
