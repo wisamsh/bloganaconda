@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-die("WORKS!!!");
+
 
 define( 'WP_USE_THEMES', true );
 
